@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+
+- 🔭 I’m currently working on Computer Vision, NLP and Deep Learning 
+- 🌱 I’m currently learning Transformers, NLP
+
 <!--
 **vipulrai91/vipulrai91** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
