@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-- 🔭 I’m currently working on Computer Vision, NLP and Deep Learning 
+- 🔭 I’m currently working as Azure Solution Architect and Data Engineer
 - 🌱 I’m currently learning Transformers, NLP
 
 <!--
