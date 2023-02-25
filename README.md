@@ -3,7 +3,6 @@
 
 - 🔭 I’m currently working as Azure Solution Architect and Data Engineer
 - 🌱 I’m currently learning Transformers, NLP
-- 📫 Reach me at - https://vipulrai91.github.io/resume
 
 <!--
 **vipulrai91/vipulrai91** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
