@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-- 🔭 I’m currently working as Azure Solution Architect and Data Engineer
+- 🔭 I’m currently working as Senior Data Engineer
 - 🌱 I’m currently learning Transformers, NLP
 
 <!--
