@@ -71,9 +71,9 @@ Expertise in **cloud platforms, data pipeline development, and automation** to e
 ---
 
 ## **Certifications**  
+- **Databricks Certified Associate Developer for Apache Spark 3.0**  
+- **Microsoft Certified: Azure Data Engineer Associate (DP-203)**
 - **Deep Learning Specialization**  
-- **Academy Accreditation - Databricks Lakehouse Fundamentals**  
-- **Microsoft Certified: Azure Data Engineer Associate (DP-203)**  
 
 ---
 
