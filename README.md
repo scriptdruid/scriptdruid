@@ -6,7 +6,7 @@
 ---
 
 ## **Summary**  
-Senior Data Engineer with **14+ years of experience** in **distributed computing, big data architecture, and DevOps automation**.  
+Senior Data Engineer with **12+ years of experience** in **distributed computing, big data architecture, and DevOps automation**.  
 Currently at Knab, I **architect and deliver scalable data solutions** leveraging **AWS, Airflow, dbt, and Spark**, optimizing ETL workflows to drive **data-driven insights**.  
 Expertise in **cloud platforms, data pipeline development, and automation** to ensure efficiency, security, and high performance in **financial data operations**.  
 
